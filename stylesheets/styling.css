@@ -23,6 +23,9 @@ body {
 	div.content-box {
 	width: 46%;
 	}
+	div.sushi{
+	width: 96%;
+	}
 }
 @media(max-width: 767px){
 	div.content-box {
